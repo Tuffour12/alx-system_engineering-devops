@@ -1,1 +1,1 @@
-Create a symbolic link to /bin/ls
+script that copies all the HTML files 
