@@ -1,1 +1,1 @@
-A gif is worth ten thousand words
+script that decodes acrostics that use the first letter of each line.
