@@ -1,1 +1,1 @@
-print outenv
+show local variable
